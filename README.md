@@ -7,18 +7,16 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/kunalgarg357/
 
 <h3 align="left">Catch me here:</h3>
-<a href="https://twitter.com/kunal_g_29" target="blank">
+<a href="https://twitter.com/kunal_g_29" target="_blank">
   <img align="left" alt="Kunal Garg || Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kunalgarg357/" target="blank">
+<a href="https://www.linkedin.com/in/kunalgarg357/" target="_blank">
   <img align="left" alt="Kunal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/c/KunalGarg" target="blank">
+<a href="https://www.youtube.com/c/KunalGarg" target="_blank">
   <img align="left" alt="Kunal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<!-- <a href="https://www.youtube.com/c/KunalGarg" target="blank">
-  <img align="left" alt="Kunal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/i.svg" />
-</a> -->
+
 <br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
