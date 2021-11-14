@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Kunal Garg
 
 
-- 👯 I’m looking to collaborate on new tech-stacks with real-time community based solutions
+- 👯 I’m looking to collaborate on technology and tech's XD
 - 💬 Ask me about **Development**
 - ⚡ Fun fact: **Developer with Acting skills xd**
 - 📄 Know about my experiences https://www.linkedin.com/in/kunalgarg357/
