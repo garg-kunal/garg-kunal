@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Kunal Garg
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=garg-kunal&label=Profile%20views&color=0e75b6&style=flat" alt="gargkunal" /> </p>
+
 
 - 👯 I’m looking to collaborate on technology and tech's XD
 - 💬 Ask me about **Development**
