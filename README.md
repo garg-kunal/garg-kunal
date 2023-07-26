@@ -3,20 +3,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg-kunal&label=Profile%20views&color=0e75b6&style=flat" alt="gargkunal" /> </p>
 
 
-- 👯 I’m looking to collaborate on technology and tech's XD
+- 👯 I’m looking to collaborate on technology and tech XD
 - 💬 Ask me about **Development**
 - ⚡ Fun fact: **Developer with Acting skills xd**
 - 📄 Know about my experiences https://www.linkedin.com/in/kunalgarg357/
 
 <h3 align="left">Catch me here:</h3>
 <a href="https://twitter.com/kunal_g_29" target="_blank">
-  <img align="left" alt="Kunal Garg || Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kunal Garg || Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kunalgarg357/" target="_blank">
-  <img align="left" alt="Kunal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kunal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
 </a>
 <a href="https://www.youtube.com/c/KunalGarg" target="_blank">
-  <img align="left" alt="Kunal's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Kunal's Youtube" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
 </a>
 
 <br/><br/>
