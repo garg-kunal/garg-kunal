@@ -16,7 +16,7 @@
   <img align="left" alt="Kunal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
 </a>
 <a href="https://www.youtube.com/c/KunalGarg" target="_blank">
-  <img align="left" alt="Kunal's Youtube" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" />
+  <img align="left" alt="Kunal's Youtube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" />
 </a>
 
 <br/><br/>
